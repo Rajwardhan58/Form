@@ -1,0 +1,32 @@
+
+
+
+
+.required::after{
+    content:"*";
+    color:red;
+}
+
+.item-decript{
+    padding-top: 5px;
+    font-size:0.7em;
+	opacity:0.5
+}
+
+.form-control{
+    border-radius: 0;
+}
+
+.btnstyle{
+    background-color: #af8b4c;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 0;
+
+
+}
